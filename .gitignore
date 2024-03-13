@@ -1,0 +1,23 @@
+# Arquivos compilados
+*.class
+
+# Arquivos de compilação e construção
+bin/
+target/
+
+# Arquivos de configuração específicos do VS Code
+.vscode/
+
+# Arquivos de configuração específicos do IntelliJ IDEA
+.idea/
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+*.tmp.*
+*.swp
+*~
+
+# Dependências geradas
+lib/
+libs/
